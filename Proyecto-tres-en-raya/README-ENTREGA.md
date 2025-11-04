@@ -1,8 +1,8 @@
-# 🎮 Tres en Raya Quisqueyano - Entrega Final
+# Tres en Raya Quisqueyano - Entrega Final
 
-## 👨‍💻 Autor: [Tu Nombre Completo]
+## Autor: [Jean Carlos Fernandez]
 
-## 📦 CONTENIDO DE LA ENTREGA
+## CONTENIDO DE LA ENTREGA
 
 ### Archivos Principales:
 1. **`tres-en-raya-quisqueyano.html`** - Juego completo y funcional
@@ -14,26 +14,26 @@
 - `public/` - Archivos públicos
 - Configuraciones de Vite, PostCSS y Tailwind
 
-## 🎯 DESCRIPCIÓN DEL JUEGO
+## DESCRIPCIÓN DEL JUEGO
 
 **Tres en Raya Quisqueyano** es una implementación moderna del clásico juego Tic-Tac-Toe con temática dominicana. Desarrollado completamente en React con funcionalidades avanzadas y diseño responsive.
 
-## ✨ CARACTERÍSTICAS IMPLEMENTADAS
+## CARACTERÍSTICAS IMPLEMENTADAS
 
 ### Funcionalidades Principales:
-- ✅ Juego completo de Tres en Raya 3x3
-- ✅ Turnos alternados entre Taino (X) y Caribe (O)
-- ✅ Detección automática de ganador/empate
-- ✅ Sistema de puntuación persistente
-- ✅ Historial de partidas
-- ✅ Diseño responsive
+-  Juego completo de Tres en Raya 3x3
+- Turnos alternados entre Taino (X) y Caribe (O)
+- Detección automática de ganador/empate
+- Sistema de puntuación persistente
+- Historial de partidas
+- Diseño responsive
 
 ### Características Técnicas:
-- ⚛️ Desarrollado en React 18
-- 🎨 CSS3 con animaciones y gradientes
-- 💾 Persistencia con LocalStorage
-- 📱 Diseño mobile-first
-- 🎯 Compatibilidad cross-browser
+-  Desarrollado en React 18
+-  CSS3 con animaciones y gradientes
+-  Persistencia con LocalStorage
+-  Diseño mobile-first
+-  Compatibilidad cross-browser
 
 ## 🎓 QUÉ APRENDÍ
 
@@ -54,7 +54,7 @@
 - **Serialización JSON**: Manejo de objetos complejos
 - **Sincronización**: Mantener consistencia entre componentes
 
-## 🎯 PARTE MÁS DIFÍCIL
+## PARTE MÁS DIFÍCIL
 
 La parte más desafiante fue **implementar la persistencia de datos manteniendo la sincronización entre múltiples componentes**. Los principales retos fueron:
 
@@ -63,7 +63,7 @@ La parte más desafiante fue **implementar la persistencia de datos manteniendo 
 3. **Estructura de datos**: Diseñar un formato eficiente para el historial
 4. **Validación**: Asegurar integridad de datos cargados desde localStorage
 
-## 🚀 CÓMO EJECUTAR
+## CÓMO EJECUTAR
 
 ### Versión HTML (Recomendada para entrega):
 1. Descargar `tres-en-raya-quisqueyano.html`
