@@ -1,12 +1,12 @@
-🎮 TRES EN RAYA QUISQUEYANO - INSTRUCCIONES DE DESCARGA
+ TRES EN RAYA QUISQUEYANO - INSTRUCCIONES DE DESCARGA
 =======================================================
 
-📁 ARCHIVOS INCLUIDOS EN LA DESCARGA:
+ ARCHIVOS INCLUIDOS EN LA DESCARGA:
 
 1. tres-en-raya-quisqueyano.html - Juego completo listo para usar
 2. INSTRUCCIONES-DESCARGA.txt - Este archivo
 
-🚀 CÓMO USAR EL JUEGO:
+ CÓMO USAR EL JUEGO:
 
 MÉTODO 1 - DIRECTO (RECOMENDADO):
 1. Guarda el archivo "tres-en-raya-quisqueyano.html" en tu computadora
@@ -18,9 +18,9 @@ MÉTODO 2 - SUBIR A SERVIDOR:
 2. Accede a través de la URL proporcionada
 3. ¡Listo para jugar!
 
-🎯 CARACTERÍSTICAS DEL JUEGO:
+ CARACTERÍSTICAS DEL JUEGO:
 
-✅ FUNCIONALIDADES COMPLETAS:
+ FUNCIONALIDADES COMPLETAS:
    - Tablero 3x3 interactivo
    - Turnos alternados entre Taino (X) y Caribe (O)
    - Detección automática de ganador/empate
@@ -28,27 +28,27 @@ MÉTODO 2 - SUBIR A SERVIDOR:
    - Historial de partidas
    - Diseño responsive
 
-✅ TEMÁTICA DOMINICANA:
+ TEMÁTICA DOMINICANA:
    - Colores de la bandera (#002d62 azul, #ce1126 rojo)
    - Nombres: Taino vs Caribe
    - Expresiones dominicanas
    - Diseño atractivo y moderno
 
-✅ PERSISTENCIA DE DATOS:
+ PERSISTENCIA DE DATOS:
    - Las puntuaciones se guardan automáticamente
    - No se pierden al cerrar el navegador
    - Historial de últimas 10 partidas
 
-🛠️ TECNOLOGÍAS UTILIZADAS:
+ TECNOLOGÍAS UTILIZADAS:
 - React 18 (via CDN)
 - CSS3 con diseño moderno
 - LocalStorage para persistencia
 - JavaScript ES6+
 
-📱 COMPATIBILIDAD:
-- ✅ Chrome, Firefox, Safari, Edge
-- ✅ Desktop, Tablet, Mobile
-- ✅ Windows, Mac, Linux
+ COMPATIBILIDAD:
+-  Chrome, Firefox, Safari, Edge
+-  Desktop, Tablet, Mobile
+-  Windows, Mac, Linux
 
 🎮 CÓMO JUGAR:
 1. Taino (X) siempre comienza
@@ -58,13 +58,13 @@ MÉTODO 2 - SUBIR A SERVIDOR:
 5. Usa "Jugar de Nuevo" para reiniciar
 6. Usa "Limpiar Historial" para borrar todo
 
-⚠️ NOTAS IMPORTANTES:
+ NOTAS IMPORTANTES:
 - No requiere instalación de Node.js
 - No requiere dependencias adicionales
 - Funciona completamente offline
 - Los datos se guardan en tu navegador
 
-📞 SOPORTE:
+ SOPORTE:
 Si encuentras algún problema:
 1. Asegúrate de usar un navegador moderno
 2. Verifica que JavaScript esté habilitado
